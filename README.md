@@ -1,7 +1,7 @@
-<!--<h1 align="center">Hey 👋, I'm Yash Saini</h1>
+<h1 align="center">Hey 👋, I'm YASH SAINI/h1>
 
 <p align="center">
-🔐 Aspiring Cybersecurity Professional | 🧠 Always Learning  
+🔐 Aspiring Software Developer | 🧠 Always Learning  
 </p>
 
 ---
@@ -9,15 +9,15 @@
 ## 🧭 About Me
 
 🎓 Final-year B.Tech student  
-🛡️ Passionate about Blue Team Ops, SOC Analysis & Threat Hunting  
-🔍 Exploring Web Security, Malware Detection, and SIEM Tools  
-📄 Building projects that combine code + cybersecurity  
+🛡️ Passionate about 
+🔍  
+📄 Building projects that combine code + AI/ML  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔐 Cybersecurity & Tools
+### 🔐
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -56,16 +56,3 @@
 ---
 
 <h3 align="center">“Code. Break. Learn. Repeat.”</h3>
-**yas15sh/yas15sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
