@@ -1,58 +1,61 @@
-<h1 align="center">Hey 👋, I'm YASH SAINI/h1>
+# 👋 Hi, I'm Yash Saini
 
-<p align="center">
-🔐 Aspiring Software Developer | 🧠 Always Learning  
-</p>
+### 🚀 Aspiring Full Stack Developer | B.Tech CSE (2026)
 
----
-
-## 🧭 About Me
-
-🎓 Final-year B.Tech student  
-🛡️ Passionate about 
-🔍  
-📄 Building projects that combine code + AI/ML  
+I'm passionate about building full-stack applications and solving real-world problems with clean, scalable code. I love working with web technologies, exploring backend logic, and creating interactive user interfaces.
 
 ---
 
-## 🛠️ Tech Stack
+### 💼 Tech Stack
 
-### 🔐
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4169E1?style=for-the-badge)
+**Languages:**  
+JavaScript | Python | C++ | Java | PHP  
 
-### 💻 Development
-![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+**Frontend:**  
+HTML5 | CSS3 | React.js | Tailwind CSS  
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Backend:**  
+Node.js | Express.js | Python Flask | PHP  
+
+**Database:**  
+MySQL | MongoDB  
+
+**Tools & Platforms:**  
+Git | GitHub | VS Code  
 
 ---
 
-## 🚀 Current Projects
+### 🔨 Projects
 
-- 🔍 **Web Vulnerability Scanner** – CLI + Flask version with PDF output  
-- 🛡️ **Malware Detection Script** –  coming soon**
-- 📊 **SOC Simulation Lab** – coming soon**
-- 🌐 **Cybersecurity Portfolio Website** – coming soon**
+- 🎬 **Netflix Clone** – HTML/CSS/JavaScript  
+- ✅ **Task Manager API** – Node.js, Express.js, MongoDB, JWT  
+- 🌤️ **Weather App** – JavaScript + OpenWeather API  
+- 📝 **PHP To-Do App** – PHP + MySQL + XAMPP (CRUD Based)
 
----
-
-
-## 📫 Let's Connect
-
-- 📧 Email: [kabirchand31@gmail.com](mailto:kabirchand31@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/kabir-chand-2ab869250)  
-- 🌐 Portfolio: Coming Soon!
+Explore them all [here →](https://github.com/yas15sh?tab=repositories)
 
 ---
 
-<h3 align="center">“Code. Break. Learn. Repeat.”</h3>
+### 🌱 Currently Learning
+- React Router & Context API  
+- Advanced PHP & WordPress  
+- GitHub Actions and CI/CD  
+- Basic DevOps Concepts
+
+---
+
+### 📫 Let's Connect
+
+- 📧 yashsaini2044@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/yash-saini-89706424b)  
+- 🐙 [GitHub](https://github.com/yas15sh)
+
+---
+
+### ⚡ Fun Fact:
+> I can debug better with music on! 🎧  
+> Coffee + Code = ❤️
+
+---
+
+⭐ *If you like what I do, consider giving my repos a star!*
