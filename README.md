@@ -160,6 +160,13 @@ https://www.linkedin.com/in/yash-saini-89706424b/
 🐙 **GitHub:**  
 https://github.com/yas15sh
 
+## 📄 My Resume
+
+[![View Resume](https://img.shields.io/badge/View_My-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](./Yash_Saini_Resume.pdf)
+
+[📥 Download My Resume (PDF)](./Yash_Saini_Resume.pdf)
+
+
 ---
 
 ### ⚡ A Little About Me
